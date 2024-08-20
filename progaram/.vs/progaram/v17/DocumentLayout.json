@@ -3,7 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\admin\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SBS-Game-Academy-Lecture\\progaram\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FDE9359B-682A-4013-842C-D25B4CAA4500}|..\\Class7th\\Class7th.vcxproj|C:\\Users\\admin\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SBS-Game-Academy-Lecture\\Class7th\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{87A024C8-1F31-403F-BC56-AA1E77B8EEDC}|progaram.vcxproj|C:\\Users\\admin\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SBS-Game-Academy-Lecture\\progaram\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{87A024C8-1F31-403F-BC56-AA1E77B8EEDC}|progaram.vcxproj|solutionrelative:Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Source.c",
-              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SBS-Game-Academy-Lecture\\Class7th\\Source.c",
-              "RelativeDocumentMoniker": "..\\Class7th\\Source.c",
-              "ToolTip": "C:\\Users\\admin\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SBS-Game-Academy-Lecture\\Class7th\\Source.c",
-              "RelativeToolTip": "..\\Class7th\\Source.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SBS-Game-Academy-Lecture\\progaram\\Source.c",
+              "RelativeDocumentMoniker": "Source.c",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SBS-Game-Academy-Lecture\\progaram\\Source.c",
+              "RelativeToolTip": "Source.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-08-19T12:41:53.383Z",
+              "WhenOpened": "2024-08-20T10:57:25.095Z",
               "EditorCaption": ""
             }
           ]
